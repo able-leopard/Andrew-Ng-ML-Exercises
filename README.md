@@ -2,5 +2,6 @@
 
 Andrew Ng's ML Assignments
 
-Huge thank you to kaleko (https://github.com/kaleko)! 
-A lot of the code was learned from his assignments, go follow him :) 
+Huge thank you to kaleko (https://github.com/kaleko)! Go follow him :) 
+A large chunk of the code was taken from his assignments. 
+I added my own notes and made edits to help with my learning and retention. 
